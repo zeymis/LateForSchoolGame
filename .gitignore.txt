@@ -1,0 +1,26 @@
+[Libraries and temp files]
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+MemoryCaptures/
+
+[User-specific settings]
+UserSettings/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+[Others]
+.DS_Store
+*.apk
+*.unitypackage
