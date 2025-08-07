@@ -59,8 +59,3 @@ This project was developed as part of the *Game Programming* course. The goal wa
 ## 📬 Contact
 
 For questions or feedback, feel free to reach out via GitHub Issues or open a pull request!
-
----
-
-
-## 📸 Screenshots
